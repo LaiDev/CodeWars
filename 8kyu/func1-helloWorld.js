@@ -1,0 +1,9 @@
+//Description : Make a simple function called greet that returns the most-famous "hello world!".
+
+//Link : https://www.codewars.com/kata/523b4ff7adca849afe000035/javascript
+
+//My Solution
+
+let greet = () => {
+    return 'hello world!'
+  } 
